@@ -1,5 +1,3 @@
-
-
 #ifndef __UC_2048_H
 #define __UC_2048_H
 
